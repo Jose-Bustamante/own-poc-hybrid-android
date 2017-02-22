@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jose.bustamante/Documents/poc-hybrid-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21cdb6661eafa315897a3e482008905943c0f0a8">
+        <dex dex="/Users/jose.bustamante/Documents/poc-hybrid-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a39124feb5088d80e05fa9294a5c413e9dce4c32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jose.bustamante/Documents/poc-hybrid-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b4184dfc83abe5c0021d1fca6e58815249b3773">
+        <dex dex="/Users/jose.bustamante/Documents/poc-hybrid-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3e89accefa02a232ace0e6bddf6f4741eb065df2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jose.bustamante/Documents/poc-hybrid-android/app/libs/cordova-5.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd3b92a65f2221f9df295e3aa32662363f64d957">
+        <dex dex="/Users/jose.bustamante/Documents/poc-hybrid-android/app/build/intermediates/transforms/dex/debug/folders/1000/2/cordova-5.2.2_44c767dff47bf1cdd3b5e2ac28cdb9c218d70b83/classes.dex" />
+    </item>
+
+</items>
